@@ -1,3 +1,4 @@
+# YES I KNOW I SPELT ROBUX AS RUBUX IN SOME PLACES MY BAD
 # Why do you need cookies?
 # We need your account cookie so the bot can login and purchase things on your account
 # Is it safe?
