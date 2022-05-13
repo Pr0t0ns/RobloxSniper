@@ -6,7 +6,7 @@ What is the custom.txt file?
 Answer: The custom.txt file is if you want to purchase only certain items just provide the item url's their, and then change the "set_items" option inside config.json to "true"
 ==== 
 What is the average time for items to be sniped?
-Answer: It all really depends on the connection and the threads. The more threads the faster items will be sniped (Note: Threads take up CPU Power). On replit the average time to purchase an item is 0.5sec-1.3sec
+Answer: It all really depends on the connection and the threads. The more threads the faster items will be sniped (Note: Threads take up CPU Power). On replit the average time to purchase an item is 0.5sec-1.3sec Using 1-3 threads
 ==== 
 How do i set the config.json Options
 Answer: All you need to do is change the statment in the config file for example if you set the "set_items" option to "true" it will only snipe the items in the custom.txt file, then when you set it back to false it will stop.
